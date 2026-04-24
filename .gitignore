@@ -1,0 +1,21 @@
+# IDE / Editor folders
+.vscode/
+.pio/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Trashes
+Thumbs.db
+
+# Compiled files and binaries
+build/
+*.bin
+*.elf
+*.hex
+*.uf2
+
+# Sensitive configuration files (optional, if you separate your keys into another file)
+# config.h
+# secrets.h
